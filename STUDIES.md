@@ -17,3 +17,7 @@ In order to have a generic generative chatbot like _ChatGPT_ what we need is a l
 The simple reason is that it's more expensive than expected. The other reason is it's not an _open source model_ so even if we use the _fine-tune API_ we still can't claim that the model is free, libre or open-source. 
 
 The final reason is that there are quiet a few open-source __UI__'s for GPT-3 available, so this is meaningless to create one more.
+
+### Why not creating a language model?
+
+It's simple. Creating an LLM (_Large Language Model_) costs millions of dollars and one of my goals is to keep everything as economical as possible.
