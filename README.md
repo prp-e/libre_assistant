@@ -17,3 +17,13 @@ In recent months [ChatGPT](https://chat.openai.com/chat) becoming the number one
     - [ ] CMD Interface
     - [ ] Rest API
     - [ ] Web-Based UI
+
+## Considered Features
+
+- Question Answering
+- Content Generation
+    - TBD
+- Code Generation
+    - TBD
+- Summerization
+- Web Search (Needs more clarification)
