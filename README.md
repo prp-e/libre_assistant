@@ -27,6 +27,9 @@ In recent months [ChatGPT](https://chat.openai.com/chat) becoming the number one
     - Blog Post Generation
     - Wiki Article Generation
 - Code Generation
-    - TBD
+    - Python
+    - JS
+    - Ruby
+    - PHP
 - Summerization
 - Web Search (Needs more clarification)
