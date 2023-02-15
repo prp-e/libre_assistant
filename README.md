@@ -14,3 +14,6 @@ In recent months [ChatGPT](https://chat.openai.com/chat) becoming the number one
 - [ ] Data Gathering
 - [ ] Fine-Tuning The Model
 - [ ] Making the interface
+    - [ ] CMD Interface
+    - [ ] Rest API
+    - [ ] Web-Based UI
