@@ -22,7 +22,10 @@ In recent months [ChatGPT](https://chat.openai.com/chat) becoming the number one
 
 - Question Answering
 - Content Generation
-    - TBD
+    - Tweet Generation
+    - Product Description Generation
+    - Blog Post Generation
+    - Wiki Article Generation
 - Code Generation
     - TBD
 - Summerization
