@@ -33,3 +33,7 @@ In recent months [ChatGPT](https://chat.openai.com/chat) becoming the number one
     - PHP
 - Summerization
 - Web Search (Needs more clarification)
+
+## Contributions
+
+For now there is no procedure of contribution. This section will be updated as soon as there is a clear instruction.
