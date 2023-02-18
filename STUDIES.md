@@ -29,4 +29,8 @@ It's simple. Creating an LLM (_Large Language Model_) costs millions of dollars 
 | Pros | Cons |
 |:----------------:|:----------------:|
 | available in 1B, 1.3B, 7B and 176B | Nothing between 7B and 176B |
-
+| Great on English text generation   | Sucks at generating in other languages |
+| Great on code completion           | Sucks at instructional commands        |
+| Easy to access on HuggingFace      | Hard to deploy locally                 |
+|                                    | Hard to fine-tune                      |
+|                                    | Poor sampling (hallucinations & repetitions) |
