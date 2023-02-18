@@ -34,3 +34,7 @@ It's simple. Creating an LLM (_Large Language Model_) costs millions of dollars 
 | Easy to access on HuggingFace      | Hard to deploy locally                 |
 |                                    | Hard to fine-tune                      |
 |                                    | Poor sampling (hallucinations & repetitions) |
+
+### BLOOMZ
+
+Everything about _BLOOM_ is also honest about BLOOMZ with one exception. It's really great on instructions. But we still have to deal with over explanations, hallucinations and unnecessary repetitions in the answers.
