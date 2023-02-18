@@ -28,3 +28,5 @@ It's simple. Creating an LLM (_Large Language Model_) costs millions of dollars 
 
 | Pros | Cons |
 |:----------------:|:----------------:|
+| available in 1B, 1.3B, 7B and 176B | Nothing between 7B and 176B |
+
