@@ -5,9 +5,9 @@ In recent months [ChatGPT](https://chat.openai.com/chat) becoming the number one
 ## Phases
 
 - [ ] Model Studies
-    - [ ] BLOOM
-    - [ ] BLOOMZ (The same as BLOOM but trained on instruction data)
-    - [ ] OPT-175B
+    - [x] BLOOM
+    - [x] BLOOMZ (The same as BLOOM but trained on instruction data)
+    - [x] OPT-175B
     - [ ] Jurassic
     - [ ] GPT-Neox, GPT-J and other possible candidates
 - [ ] Fine-Tuning Studies (Depending on the model of choice)
