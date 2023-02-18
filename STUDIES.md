@@ -38,3 +38,8 @@ It's simple. Creating an LLM (_Large Language Model_) costs millions of dollars 
 ### BLOOMZ
 
 Everything about _BLOOM_ is also honest about BLOOMZ with one exception. It's really great on instructions. But we still have to deal with over explanations, hallucinations and unnecessary repetitions in the answers.
+
+### OPT-175B
+
+| Pros | Cons |
+|:----------------:|:----------------:|
