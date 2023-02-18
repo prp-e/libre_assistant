@@ -43,3 +43,10 @@ Everything about _BLOOM_ is also honest about BLOOMZ with one exception. It's re
 
 | Pros | Cons |
 |:----------------:|:----------------:|
+| Has more weights from 125m to 175B | |
+| | No guide line of fine-tuning has been released |
+| | No coherent results in many cases |
+| | Hard to deploy the large model    |
+| Good at conversations | |
+| Good at taking instructions | |
+| | No repeats but hallucinates _a lot_ |
