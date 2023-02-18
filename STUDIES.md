@@ -23,3 +23,8 @@ The final reason is that there are quiet a few open-source __UI__'s for GPT-3 av
 It's simple. Creating an LLM (_Large Language Model_) costs millions of dollars and one of my goals is to keep everything as economical as possible.
 
 ## Model Studies
+
+### BLOOM
+
+| Pros | Cons |
+|:--------:|:--------:|
