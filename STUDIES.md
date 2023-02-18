@@ -27,4 +27,4 @@ It's simple. Creating an LLM (_Large Language Model_) costs millions of dollars 
 ### BLOOM
 
 | Pros | Cons |
-|:--------:|:--------:|
+|:----------------:|:----------------:|
