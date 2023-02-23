@@ -50,3 +50,13 @@ Everything about _BLOOM_ is also honest about BLOOMZ with one exception. It's re
 | Good at conversations | |
 | Good at taking instructions | |
 | | No repeats but hallucinates _a lot_ |
+
+### Jurassic 
+
+| Pros | Cons |
+|:----------------:|:----------------:|
+| Coherent results | Lacks on non-english data|
+|                  | Not very good on instructions (largest model) |
+| A lot of free opportunities | |
+| Cheap Price       | Payment problems are still there |
+| API & Playground  | |
