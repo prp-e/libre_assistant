@@ -11,7 +11,7 @@ In recent months [ChatGPT](https://chat.openai.com/chat) becoming the number one
     - [x] Jurassic
     - [ ] GPT-Neox, GPT-J and other possible candidates
 - [ ] Fine-Tuning Studies (Depending on the model of choice)
-- [ ] Data Gathering
+- [x] Data Gathering
 - [ ] Fine-Tuning The Model
 - [ ] Making the interface
     - [ ] CMD Interface
